@@ -1,2 +1,2 @@
-# frontend-backend-parts
+# Amplify
 Work with Amplify service. AWS

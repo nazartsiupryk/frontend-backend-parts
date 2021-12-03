@@ -1,2 +1,2 @@
 # Amplify
-Work with Amplify service. AWS
+Work with Amplify service. AWS. Course

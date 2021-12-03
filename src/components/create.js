@@ -7,7 +7,7 @@ export default function Create() {
     const [composition, setComposition] = useState('');
     const [category, setCategory] = useState('');
     const [maker, setMaker] = useState('');
-    const [price, setPrice] = useState(125);
+    const [price, setPrice] = useState('');
     const [packageType, setPackageType] = useState('');
     const [usage, setUsage] = useState('');
 
